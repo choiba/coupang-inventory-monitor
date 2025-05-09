@@ -48,3 +48,6 @@ export default function CoupangInventoryMonitor() {
     </div>
   );
 }
+export default function CoupangInventoryMonitor() {
+  ...
+}
